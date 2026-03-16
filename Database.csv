@@ -1,2 +1,4 @@
-﻿Item Name,Size available,Price,Stock,Image URL
-Sample,"7, 8, 10","P1, 000",6,sample url
+﻿ID,Item Name,Size available,Price,Stock
+1,Terrex,7,1000,6
+1,Terrex,5,1000,3
+2,Addidas Leopard,7,2500,5
